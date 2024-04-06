@@ -5,7 +5,7 @@ Features:
 - Log rotation (saves your logs into separate files when the game exits)
 - Borderless window mode without minimizing when you click outside the window (useful for multi-monitor setups)
 
-Put the exe into the same folder as your nwmain.exe file is, then use it to launch the game.  
+Put the exe into the same folder as your nwmain.exe file is, then use it to launch the game. For example ```Neverwinter Nights\bin\win32\ ```  
 **Make sure that in Settings, the game is set to Windowed mode.**
 
 If you are using Steam:
